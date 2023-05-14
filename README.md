@@ -9,6 +9,7 @@ Built with [LangChain](https://github.com/hwchase17/langchain) and [GPT4All](htt
 In order to set your environment up to run the code here, first install all requirements:
 
 ```shell
+sudo apt-get install -y build-essential
 pip install -r requirements.txt
 ```
 
